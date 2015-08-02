@@ -1,0 +1,7 @@
+Move:
+a list of actions that must be triggered in sequence
+
+MoveTree:
+	a tree of moves branching at each option
+	each node has branches correspondng to action
+	
